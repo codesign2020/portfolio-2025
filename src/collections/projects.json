@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
+		"name": "AI智能媒资平台产品",
+		"description": "通过使用自研大模型，对各类媒体资源进行编目、审核、总结、权限管理等。",
 		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"url": "/content/post/sink.md"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"name": "享TV手机APP",
+		"description": "基于山东广电网络，打造手机端电视直播、视频点播一体化平台。",
 		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"url": "#"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
+		"name": "终端优选电商平台",
+		"description": "为智能终端产品线产品打造的营销、下单、支付、数据分析等一体化平台。",
 		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"url": "#"
 	}
 ]
