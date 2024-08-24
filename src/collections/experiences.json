@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
+		"dates": "2017.7 - 2024.7",
+		"role": "UED设计师",
+		"company": "浪潮集团有限公司",
+		"description": "负责公司主营产品线的主要UI设计，并与产品经理、研发工程师配合，完成UI高还原度和用户体验优化。",
 		"logo": "/assets/images/experiences/fta.ico"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
+		"dates": "2015.5 - 2017.2",
+		"role": "UI设计师",
+		"company": "网舆智信",
+		"description": "负责公司舆情管理系统产品线包括大屏、后台、APP的界面设计工作。",
 		"logo": "/assets/images/experiences/yoho.ico"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"dates": "2013.7 - 2015.5 ",
+		"role": "技术支持工程师",
+		"company": "Broada",
+		"description": "负责对公司的产品进行部署、维护、优化、测试等工作，与客户进行深度交流。",
 		"logo": "/assets/images/experiences/wulian.ico"
 	}
 ]
