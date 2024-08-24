@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/post.astro
+layout: ../../../layouts/post.astro
 title: AI智能媒资平台产品
 description: A short link system based on Cloudflare with visit statistics
 dateFormatted: Jun 4th, 2023
